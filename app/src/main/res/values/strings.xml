@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="title_activity_side_bar">SideBarActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="base_url">"http://192.168.2.5:8088/api/"</string>
+    <string name="title_back">Back</string>
+    <string name="title_activity_message_list">Messages</string>
+</resources>
